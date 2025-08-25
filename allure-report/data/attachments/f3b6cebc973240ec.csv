@@ -1,0 +1,11 @@
+username,password,ad,soyad,control,data
+TC06.01-USERNAME,PASSWORD,USER-NAME-BOS,USER-SURNAME,Adınızı giriniz,"Ad Boş Kontrol"
+TC06.01-USERNAME,PASSWORD,USER-NAME,USER-SURNAME-BOS,Soyadınızı giriniz,"Soyad Boş Kontrol"
+TC06.01-USERNAME,PASSWORD,TC008-SPECIAL-NAME,USER-SURNAME,Numerik/özel karakter içermemelidir.,"Ad Özel Karakter Kontrol"
+TC06.01-USERNAME,PASSWORD,USER-NAME,TC008-SPECIAL-NAME,Numerik/özel karakter içermemelidir.,"Soyad Özel Karakter Kontrol"
+TC06.01-USERNAME,PASSWORD,TC003-SHORT-NAME,USER-SURNAME,Adınız minimum 2 karakter olmalıdır,"Ad Min Karakter Kontrol"
+TC06.01-USERNAME,PASSWORD,USER-NAME,TC003-SHORT-NAME,Soyadınız minimum 2 karakter olmalıdır,"Soyad Min Karakter Kontrol"
+TC06.01-USERNAME,PASSWORD,TC003-LONG-NAME,USER-SURNAME,Adınız maksimum 50 karakter olmalıdır,"Ad Max Karakter Kontrol"
+TC06.01-USERNAME,PASSWORD,USER-NAME,TC003-LONG-NAME,Soyadınız maksimum 50 karakter olmalıdır,"Soyad Max Karakter Kontrol"
+TC06.01-USERNAME,PASSWORD,TC003-SPECIAL-NAME-3,USER-SURNAME,,"Ad Başında Boşluk"
+TC06.01-USERNAME,PASSWORD,USER-NAME,TC003-SPECIAL-NAME-3,,"Soyad Başında Boşluk"

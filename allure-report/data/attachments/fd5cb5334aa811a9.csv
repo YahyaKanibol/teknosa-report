@@ -1,0 +1,5 @@
+username,password,pnumber,control,data
+USERNAME,PASSWORD,4,Telefon Numaranız 5 ile Başlamalıdır,"Telefon No Kontrol"
+USERNAME,PASSWORD,555,Geçerli bir cep telefonu numarası giriniz,"Hatalı Telefon No Kontrol"
+USERNAME,PASSWORD,test,Telefon numaranızı giriniz,"Harf Giriş Kontrol"
+USERNAME,PASSWORD,,Telefon numaranızı giriniz,"Boş Giriş Kontrol"
