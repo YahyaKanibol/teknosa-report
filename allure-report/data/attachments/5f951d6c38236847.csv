@@ -1,0 +1,5 @@
+ad,soyad,mail,telefon,sifre,data
+Test,Test,test12@test.com,5555555555,Ew1!'^+%&/==>£#$,"Özel Şifre"
+Su,As,test12@test.com,5555555555,Test123.,"İki Karakterli Ad"
+Kazım Kazım,Ali Ali,test12@test.com,5555555555,Test123.,"İki İsimli Giriş"
+Teknosa1+,Teknosa1+,test12@test.com,5555555555,Test123.,"Özel Harf Kontrol"

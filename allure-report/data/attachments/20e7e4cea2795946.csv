@@ -1,0 +1,5 @@
+username,password,baslik,ad,soyad,telefon,adrestext,sirket,vergidairesi,vergino,control,data
+USERNAME-3,PASSWORD-3,TEKNOSA,Test,Otomasyon,5556413322,Carrefoursa Plaza Tugay Yolu Cad. No:67 Blok B,,,,Lütfen şirket adını giriniz.,"Lütfen şirket adını giriniz"
+USERNAME-3,PASSWORD-3,TEKNOSA,Test,Otomasyon,5556413322,Carrefoursa Plaza Tugay Yolu Cad. No:67 Blok B,,,,Lütfen vergi dairesi bilgisini giriniz.,"Vergi dairesi bilgisini boş"
+USERNAME-3,PASSWORD-3,TEKNOSA,Test,Otomasyon,5556413322,Carrefoursa Plaza Tugay Yolu Cad. No:67 Blok B,,,,Lütfen VKN/TCKN giriniz.,"Lütfen VKN/TCKN giriniz."
+USERNAME-3,PASSWORD-3,TEKNOSA,Test,Otomasyon,5556413322,Carrefoursa Plaza Tugay Yolu Cad. No:67 Blok B,,,1,Lütfen geçerli bir VKN/TCKN bilgisi giriniz,"Hatalı VKN bilgisi"

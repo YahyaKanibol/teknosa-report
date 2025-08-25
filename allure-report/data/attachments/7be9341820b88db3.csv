@@ -1,0 +1,9 @@
+username,password,mevcutsifre,yenisifre,yenisifretekrar,errorcontrol,control,data
+USERNAME-2,PASSWORD-2,,Java123-,Java123-,TC015-ERROR-CONTROL-1,Şifrenizi giriniz,"Mevcut Şifre Boş Kontrol"
+USERNAME-2,PASSWORD-2,Java123-,,Java123-,TC015-ERROR-CONTROL-2,Şifrenizi giriniz,"Yeni Şifre Boş Kontrol"
+USERNAME-2,PASSWORD-2,Java123-,Java123-,,TC015-ERROR-CONTROL-3,Yeni şifrenizi tekrar girin,"Yeni Şifre Tekrar Boş Kontrol"
+USERNAME-2,PASSWORD-2,Java123-,JAVA123,Java123-,TC015-ERROR-CONTROL-3,Girmiş olduğunuz şifreler aynı değildir.,"Hatalı Yeni Şifre Tekrarı"
+USERNAME-2,PASSWORD-2,JAVA,Java123-,Java123-,TC015-ERROR-CONTROL-4,Mevcut şifrenizi hatalı girdiniz,"Yanlış Mevcut Şifre"
+USERNAME-2,PASSWORD-2,Java123-,test123.,test123.,TC015-ERROR-CONTROL-4,Şifreniz en az 1 büyük harf, bir küçk harf ve rakam içermeli ve minimum 8 karakter olmalıdır.,"Küçük Karakter"
+USERNAME-2,PASSWORD-2,Java123-,Test123,Test123,TC015-ERROR-CONTROL-4,Şifreniz en az 1 büyük harf, bir küçk harf ve rakam içermeli ve minimum 8 karakter olmalıdır.,"Minimum 8 Karakter"
+USERNAME-2,PASSWORD-2,Java123-,Testttt.,Testttt.,TC015-ERROR-CONTROL-4,Şifreniz en az 1 büyük harf, bir küçk harf ve rakam içermeli ve minimum 8 karakter olmalıdır.,"Eksik Rakam Hatası"
