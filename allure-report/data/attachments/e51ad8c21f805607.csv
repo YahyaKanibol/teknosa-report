@@ -1,0 +1,3 @@
+email,password,control,data
+USERNAME,TC001-EMPTY,Lütfen şifrenizi giriniz,"Şifre Boş Kontrol"
+USERNAME,TC001-WRONG-PASSWORD,Hatalı şifre girdiniz,"Hatalı Şifre Giriş Kontrol"
